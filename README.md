@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sg-2185
 - 👀 I’m interested in fornt-end development.
 - 🌱 I’m currently learning how to code in React
-- 💞️ I’m looking to collaborate on coding challenges
-- 📫 How to reach me ...
+
+
 
 <!---
 sg-2185/sg-2185 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
