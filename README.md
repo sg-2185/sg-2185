@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sg-2185
-- 👀 I’m interested in fornt-end development.
-- 🌱 I’m currently learning how to code in React
+- 👀 I’m interested in data science, data analysis and machine learning using Python.
+- 🌱 I’m currently learning how to code in Django and Flask
 
 
 
