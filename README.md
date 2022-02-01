@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sg-2185
-- 👀 I’m interested to delve more into the fields of data science, data analysis and machine learning using Python.
+- 👀 I’m interested to delve more into the fields of data science, data analysis, machine learning as well as web development using Python.
 - 🌱 I’m currently learning how to code in Django and Flask
 
 
